@@ -10,8 +10,6 @@ class Spaceship {
         void MoveRight();
         void FireLaser();
     private:
-        Texture2D texture;
+        Texture2D image;
         Vector2 position;
-        
-
 };
